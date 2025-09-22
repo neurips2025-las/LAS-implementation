@@ -7,9 +7,11 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9a1a596d-2c21-4fd8-a9d2-d74e11cf5500" alt="PINN_scheme_1" width="500"/>
-</p>
+<div align="center">
+  
+![PINN_scheme_1](https://github.com/user-attachments/assets/fbc8e932-5182-4971-b1f8-7fff99ff7ab2)
+
+</div>
 
 ### abstract 
 Recently, physics-informed neural networks (PINNs) have gained attention in the scientific community for their potential to solve partial differential equations (PDEs). 
