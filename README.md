@@ -1,10 +1,13 @@
 # Mitigating Instability in High Residual Adaptive Sampling for PINNs via Langevin Dynamics [Neurips 2025 Spotlight]
 <div align="center">
 
-**Minseok Jeong<sup>1,*</sup>**, **Giup Seo<sup>2,*</sup>**, and **Euiseok Hwang<sup>2, †</sup>**  (<sup>*</sup>Equal contribution, <sup>†</sup> Corresponding author)
+**Minseok Jeong<sup>*,†</sup>**, **Giup Seo<sup>*</sup>**, and **Euiseok Hwang<sup>‡</sup>**  
+(<sup>*</sup>Equal contribution, <sup>†</sup> Work done while at GIST. Now at KAIST, ACS, <sup>‡</sup>Corresponding author)
 
-<sup>1</sup> KAIST, ACSS Lab  <sup>2</sup> GIST, IISL Lab  
+Electrical Engineering and Computer Science  
+Gwangju Institute of Science and Technology (GIST)
 
+<dsa950115@kaist.ac.kr>,  <guseo1120@gm.gist.ac.kr>,  <euiseokh@gist.ac.kr>
 </div>
 
 <div align="center">
