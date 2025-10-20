@@ -13,4 +13,4 @@ The weights for the IC, BC, and PDE residual losses are set to 100, 100, and 1, 
 
 The available sampling methods include 'fixed', 'random-r', 'rad', 'r3', 'l_inf', and 'las'. In cases where hyperparameter settings are required for each method, the default settings from the original paper have been applied. If modifications are necessary, these should be made within the code. For instance, in 'rad', set k=c=1, and in 'l_inf', set the number of iterations to 20.
 
-Our PINN training and evaluation implementation is built upon the work presented in https://github.com/CVC-Lab/RobustPINNs
+###### Our PINN training and evaluation implementation is built upon the work presented in https://github.com/CVC-Lab/RobustPINNs
